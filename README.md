@@ -3,7 +3,7 @@ Welcome! This repository contains a beginner-friendly keylogger project built in
 
 ⭐ Key Features
 Records every key pressed on the keyboard, including special keys for clarity.
-Logs keystrokes to a text file (keystrokes.txt) for easy reading.
+Logs keystrokes to a text file (keylogger_ap.txt) for easy reading.
 Simple, easy-to-understand code with lots of comments for learning.
 
 📚 How Does It Work?
